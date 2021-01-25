@@ -1,7 +1,9 @@
-# ! THERE'S A PRESENTATION INCLUDED IN THE REPOSITORY WHICH SUMS UP AND SHOWS MY APP ! (LastProjectTodoApp.pptx)
+# ! THERE'S A PRESENTATION INCLUDED IN THE REPOSITORY WHICH SUMS UP AND SHOWS MY APP ! (LastProjectTodoapp.pptx)
 
 # Description of the App : TodoListApp
+
  This webapp will display a todo list which is customizable as you wish. You can see then what you have to do and all the tasks you haven't done yet (for example homeworks for nextweek)
+ 
  So the purpose of this app is to manage your time, to see clearly what's missing and to organize yourself for later. It can be use for project planning 
  
 # Functionnalities 
@@ -24,6 +26,8 @@ and create a database named todoapp
 - type again : npm install
 - then npm start 
 
-# Comments 
-I didn't present my app on Monday 18/01/2021 (couldn't attend for personal reasons) so I planned to present on Monday 25/01/2021 but the course has been canceled. So you can find my presentation of the app (unfortunately not in live) in my ppt LastProjectTodoApp.pptx
+# Comments and Test results 
+
+I didn't present my app on Monday 18/01/2021 (couldn't attend for personal reasons) so I planned to present on Monday 25/01/2021 but the course has been canceled. 
+So you can find my presentation of the app (unfortunately not in live) in my ppt LastProjectTodoapp.pptx which shows how it works.
 
